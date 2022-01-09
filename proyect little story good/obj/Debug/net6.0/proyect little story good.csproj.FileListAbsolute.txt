@@ -1,0 +1,15 @@
+C:\Users\cantu\OneDrive\Desktop\My proyects\proyect little story good\bin\Debug\net6.0\proyect little story good.exe
+C:\Users\cantu\OneDrive\Desktop\My proyects\proyect little story good\bin\Debug\net6.0\proyect little story good.deps.json
+C:\Users\cantu\OneDrive\Desktop\My proyects\proyect little story good\bin\Debug\net6.0\proyect little story good.runtimeconfig.json
+C:\Users\cantu\OneDrive\Desktop\My proyects\proyect little story good\bin\Debug\net6.0\proyect little story good.dll
+C:\Users\cantu\OneDrive\Desktop\My proyects\proyect little story good\bin\Debug\net6.0\ref\proyect little story good.dll
+C:\Users\cantu\OneDrive\Desktop\My proyects\proyect little story good\bin\Debug\net6.0\proyect little story good.pdb
+C:\Users\cantu\OneDrive\Desktop\My proyects\proyect little story good\obj\Debug\net6.0\proyect little story good.csproj.AssemblyReference.cache
+C:\Users\cantu\OneDrive\Desktop\My proyects\proyect little story good\obj\Debug\net6.0\proyect little story good.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cantu\OneDrive\Desktop\My proyects\proyect little story good\obj\Debug\net6.0\proyect little story good.AssemblyInfoInputs.cache
+C:\Users\cantu\OneDrive\Desktop\My proyects\proyect little story good\obj\Debug\net6.0\proyect little story good.AssemblyInfo.cs
+C:\Users\cantu\OneDrive\Desktop\My proyects\proyect little story good\obj\Debug\net6.0\proyect little story good.csproj.CoreCompileInputs.cache
+C:\Users\cantu\OneDrive\Desktop\My proyects\proyect little story good\obj\Debug\net6.0\proyect little story good.dll
+C:\Users\cantu\OneDrive\Desktop\My proyects\proyect little story good\obj\Debug\net6.0\ref\proyect little story good.dll
+C:\Users\cantu\OneDrive\Desktop\My proyects\proyect little story good\obj\Debug\net6.0\proyect little story good.pdb
+C:\Users\cantu\OneDrive\Desktop\My proyects\proyect little story good\obj\Debug\net6.0\proyect little story good.genruntimeconfig.cache
